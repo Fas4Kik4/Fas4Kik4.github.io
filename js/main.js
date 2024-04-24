@@ -12,7 +12,7 @@ var app = new Vue({
                 cycle:{spring:"Spring",summer:"Summer"},
                 color:"Purple"
             } },
-            { id: 2, title: "Eggplant Japanese Eggplant", short_text: 'Slender and elongated with a vibrant purple skin', image: 'images/eggplant2.jpg', desc:{
+            { id: 2, title: "Japanese Eggplant", short_text: 'Slender and elongated with a vibrant purple skin', image: 'images/eggplant2.jpg', desc:{
                 plant:{p1:"Strong sweet taste.",
                        p2:"Very high productivity with good fruit set.",
                        p3:"Early ripening variety."},
